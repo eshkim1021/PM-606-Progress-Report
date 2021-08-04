@@ -1,1 +1,11 @@
-PM 606 Website
+name: "PM-606-Progess-Report"
+output_dir: "."
+navbar: 
+  title: "Progress Report"
+  left:
+    - text: "Home"
+      href: index.html
+output: 
+  html_document: 
+    theme: cosmo
+

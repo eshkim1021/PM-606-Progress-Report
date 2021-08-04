@@ -1,1 +1,10 @@
-PM 606 Website
+---
+title: "PM 606 Progress Report"
+author: "Edward Kim"
+output: 
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
+---
+
+This is my PM 606 Progress Report Website 
